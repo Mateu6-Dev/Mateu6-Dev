@@ -4,7 +4,7 @@
 
 🌱 Atualmente estou aprendendo Programação Avançada em C, Estruturas de Dados e Algoritmos, além de explorar conceitos de Sistemas Operacionais
 
-💞️ Procuro colaborar em Projetos Open Source relacionados a C, frameworks Back-end em Python ou qualquer iniciativa focada em performance e escalabilidade
+💞️ Procuro colaborar em Projetos Open Source relacionados a front end e C, frameworks Back-end em Python ou qualquer iniciativa focada em performance e escalabilidade
 
 📫 Como me encontrar: iansenmateus1@gmail.com
 

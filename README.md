@@ -66,15 +66,10 @@ Backend Developer in Training | Java • Python • React
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mateu6-Dev&show_icons=true&theme=dracula" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateu6-Dev&layout=compact&theme=dracula" height="170" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateu6-Dev&show_icons=true&theme=react" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateu6-Dev&layout=compact&theme=react" />
 </p>
-
----
-
-<div align="center">
 
 ### 🚀 Always learning, always building.
 
